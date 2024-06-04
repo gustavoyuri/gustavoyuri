@@ -22,3 +22,15 @@
   <a href="https://www.linkedin.com/in/gustavo-y-137546239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gustavoyuri&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dracula)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gustavoyuri&show_icons=true"
+    media="(prefers-color-scheme: dracula), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavoyuri&show_icons=true" />
+</picture>
