@@ -1,9 +1,8 @@
-<h1 align="center">  
-   <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Libertinus+Serif&pause=1000&color=FFFFFF&width=435&lines=Hey%2C+what's+up%3F;I'm+Gustavo+Yuri" alt="Typing SVG" />
-   </a>
-</h1>
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Libertinus+Serif&pause=1000&color=FFFFFF&width=435&lines=Hey%2C+what's+up%3F;I'm+Gustavo+Yuri" alt="Typing SVG" />
+  </a>
+</p>
 
 ###
 
