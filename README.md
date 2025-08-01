@@ -4,6 +4,11 @@
 
 </h1>
 
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/mhGzi1Y-evEAAAAC/itachi-itachi-uchiha.gif"  />
+</div>
+
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
@@ -60,10 +65,6 @@
 
 
 ###
-
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/mhGzi1Y-evEAAAAC/itachi-itachi-uchiha.gif"  />
-</div>
 
 ###
 
