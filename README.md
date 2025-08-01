@@ -4,14 +4,6 @@
 
   </h1>
 
-###
-
-<div align="center">
-  <img align="right" height="150" src="https://media1.tenor.com/m/mhGzi1Y-evEAAAAC/itachi-itachi-uchiha.gif"  />
-</div>
-
-###
-
 
 ###
 
@@ -48,5 +40,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavoyuri/gustavoyuri/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gustavoyuri/gustavoyuri/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+###
+
+<div align="center">
+  <img align="right" height="150" src="https://media1.tenor.com/m/mhGzi1Y-evEAAAAC/itachi-itachi-uchiha.gif"  />
+</div>
 
 ###
