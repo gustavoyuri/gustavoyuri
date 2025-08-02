@@ -14,7 +14,6 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    environment: output # Associa ao ambiente "output"
 
     steps:
       - name: Checkout repository
@@ -31,4 +30,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_PAT_TOKEN }} # Usa o segredo do ambiente
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
